@@ -33,7 +33,7 @@ The second component evaluates the raw data collected, delving into the scammer'
 ## Citation 
 
 ```
-@inproceedings{acharya_brand_impersonation_2024,
+@inproceedings{acharya_pirates_of_charity_2025,
   author = {Acharya, Bhupendra and Lazzaro, Dario and Emanuele Cinà, Antonio and Holz, Thorsten},
   title = {{Pirates of Charity: Exploring Donation-based Abuses in Social Media Platforms}},
   booktitle="ACM World Wide Web Conference (WWW)",
